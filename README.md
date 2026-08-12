@@ -26,7 +26,8 @@
 
 ## Problem Statement
 
-Write a clear problem statement here.
+Children with intellectual disabilities often struggle with attention, communication, and learning through traditional teaching methods. Existing learning tools may not provide personalized guidance or interactive support according to the child’s learning pace. This project aims to develop an **Adaptive Assistive Learning Device** that uses **voice prompts, visual cues, tactile interaction, and positive audio feedback** to provide a simple, engaging, and adaptive learning experience for intellectually disabled children.
+
 
 Example:
 
