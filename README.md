@@ -3,8 +3,6 @@
 
 ## Adaptive Learning Device for Children with Intellectual Disabilities
 
-**Write the full title of your project here**
-
 ---
 
 ## Team Details
