@@ -18,7 +18,7 @@
 
 ## Guide Details
 
-**Project Guide:**  
+**Project Guide:**  Dr. (Mrs.) Nilima Warke
 **Department:** Automation and Robotics  
 **Institute:** VESIT, Mumbai  
 
