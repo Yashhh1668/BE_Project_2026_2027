@@ -341,7 +341,7 @@ Add images or videos of the working prototype.
 Video Link:
 
 ```markdown
-[Project Demo Video](https://youtu.be/6URt6z3hOys)
+[Project Demo Video](https://youtu.be/9F7bwRyWxuE)
 ```
 
 ---
