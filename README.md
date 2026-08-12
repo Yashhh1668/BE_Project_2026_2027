@@ -1,7 +1,7 @@
 ````markdown
 # BE Capstone Project
 
-## Project Title
+## Adaptive Learning Device for Children with Intellectual Disabilities
 
 **Write the full title of your project here**
 
