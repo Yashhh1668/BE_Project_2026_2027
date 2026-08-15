@@ -116,12 +116,11 @@ Briefly explain the architecture.
 ## Hardware Requirements
 
 | Sr. No. | Component | Specification | Quantity | Purpose |
-| ------- | --------- | ------------- | -------- | ------- |
-| 1       |           |               |          |         |
-| 2       |           |               |          |         |
-| 3       |           |               |          |         |
-| 4       |           |               |          |         |
-
+|---|---|---|---|---|
+| 1 | Arduino UNO Q | 4 GB RAM | 1 | Main processing and system control |
+| 2 | Display | 5–7 inch compatible display | 1 | Display learning content and questions |
+| 3 | Microphone | USB microphone | 1 | Capture the child's speech |
+| 4 | Push Buttons | 3 physical push buttons | 3 | Child input and answer selection |
 ---
 
 ## Software Requirements
@@ -166,16 +165,12 @@ Explain the step-by-step approach.
 
 ## Project Timeline
 
-| Week / Month | Task Planned          | Status                            |
-| ------------ | --------------------- | --------------------------------- |
-| Week 1       | Problem finalization  | Pending / In Progress / Completed |
-| Week 2       | Literature survey     |                                   |
-| Week 3       | Requirement analysis  |                                   |
-| Week 4       | System design         |                                   |
-| Week 5       | Prototype development |                                   |
-| Week 6       | Testing               |                                   |
-| Week 7       | Documentation         |                                   |
-| Week 8       | Paper writing         |                                   |
+| Week / Month | Task Planned | Status |
+|---|---|---|
+| August | Finalize hardware, system requirements and database design | **In Progress** |
+| September | Hardware-software integration and learning module development | **Pending** |
+| October | Speech recognition, performance analysis and system integration | **Pending** |
+| November | Testing, NGO feedback, research paper and final documentation | **Pending** |
 
 ---
 
@@ -183,16 +178,22 @@ Explain the step-by-step approach.
 
 Students must update this section every week.
 
-| Week   | Date | Work Completed | Work Planned for Next Week | Issues / Challenges | GitHub Commit Link |
-| ------ | ---- | -------------- | -------------------------- | ------------------- | ------------------ |
-| Week 1 |      |                |                            |                     |                    |
-| Week 2 |      |                |                            |                     |                    |
-| Week 3 |      |                |                            |                     |                    |
-| Week 4 |      |                |                            |                     |                    |
-| Week 5 |      |                |                            |                     |                    |
-| Week 6 |      |                |                            |                     |                    |
-| Week 7 |      |                |                            |                     |                    |
-| Week 8 |      |                |                            |                     |                    |
+## Weekly Progress Updates
+
+Students must update this section every week.
+
+| Week | Date | Work Completed | Work Planned for Next Week | Issues / Challenges | GitHub Commit Link |
+|---|---|---|---|---|---|
+| Week 1 | 15 Aug 2026 | Finalized initial hardware requirements and explored suitable components. Worked on the initial landing page and frontend structure. | Finalize hardware selection, refine the frontend and begin database planning. | Hardware platform and some system components are still being finalized. | — |
+| Week 2 | | | | | |
+| Week 3 | | | | | |
+| Week 4 | | | | | |
+| Week 5 | | | | | |
+| Week 6 | | | | | |
+| Week 7 | | | | | |
+| Week 8 | | | | | |
+
+---
 
 ---
 
