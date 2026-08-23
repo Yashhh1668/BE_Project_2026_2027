@@ -37,39 +37,43 @@ Example:
 
 ## Abstract
 
-Write a short summary of the project in 150–250 words.
+The Adaptive Assistive Learning Device for Children with Intellectual Disabilities is designed to support children who may experience difficulties with conventional learning methods. The proposed system provides an interactive learning environment using voice instructions, visual questions, tactile interaction, and audio feedback. Learning activities are presented through simple questions and visual content, while physical buttons or voice-based interaction allow the child to respond.
 
-The abstract should include:
+The system is designed to adapt learning activities according to the child's responses and progress. It provides positive and encouraging feedback to maintain engagement and uses short learning cycles to avoid excessive cognitive load. A software application manages learning activities, question presentation, response evaluation, and progress data. A database is used to store relevant learning and performance information.
 
-- Background of the problem
-- Proposed solution
-- Technology used
-- Expected outcome
-- Application area
+The prototype is being developed using a suitable embedded controller, display, microphone, tactile input components, and audio output. Raspberry Pi and other suitable controller options are being evaluated based on the processing, display, and application requirements of the system.
+
+The expected outcome is a functional prototype capable of delivering interactive and adaptive educational activities. The system can be used as an assistive educational tool in collaboration with caregivers, teachers, and organizations working with children with intellectual disabilities.
 
 ---
 
 ## Objectives
 
-1. To study the existing problem and available solutions.
-2. To design a suitable hardware/software/system architecture.
-3. To implement the proposed solution.
-4. To test and validate the system.
-5. To document and publish the project work.
+1. To study the learning and interaction challenges faced by children with intellectual disabilities.
+2. To design and develop an assistive learning device using voice, visual, tactile, and audio-based interaction.
+3. To develop interactive learning activities using simple questions, images, and voice prompts.
+4. To implement an adaptive learning mechanism that adjusts activities based on the child's responses and progress.
+5. To provide immediate positive audio and visual feedback to improve engagement and learning.
+6. To develop a software application and database for managing learning activities, evaluating responses, and tracking learner progress.
+7. To integrate the hardware and software components into a functional prototype and evaluate its performance.
+8. To document the system design, implementation, results, and findings in the form of a research paper.
 
 ---
 
 ## Scope of the Project
 
-Mention what the project will cover.
+The project focuses on developing a prototype of an interactive and adaptive learning device. The scope includes:
 
-Example:
-
-- Design and development of prototype
-- Hardware implementation
-- Software/mobile/web interface
-- Data collection and testing
-- Performance analysis
+Design and development of the hardware prototype.
+Integration of a suitable embedded controller, display, microphone, buttons, and audio output.
+Development of interactive learning activities using images, questions, and simple instructions.
+Voice-based and tactile interaction.
+Audio and visual feedback.
+Adaptive difficulty based on the child's responses and progress.
+Storage and management of learning and performance data.
+Development of a software interface for managing learning activities.
+Testing and performance evaluation of the prototype.
+Collaboration with an organization working with children with intellectual disabilities to understand practical learning requirements.
 
 ---
 
