@@ -94,14 +94,30 @@ Mention its limitations:
 
 ## Proposed System
 
-Describe your proposed solution.
+The proposed system is an Adaptive Assistive Learning Device that combines hardware interaction with a software-based learning application.
 
-Include:
+The device presents simple educational questions, images, and instructions to the child. The child can interact with the system using physical buttons/tactile inputs and voice-based interaction. The system evaluates the response and provides immediate positive audio or visual feedback.
 
-- Main idea
-- How it works
-- Major components
-- Expected benefits
+The learning process is designed to be adaptive. Based on the child's responses and stored progress, the system can modify subsequent activities or difficulty levels. Short learning sessions and repeated activities can be used to reinforce concepts while maintaining the child's engagement.
+
+Major Components:
+Embedded controller
+Display for visual questions and learning content
+Microphone for voice interaction
+Physical buttons/tactile input
+Speaker/audio output
+Learning application
+Adaptive response evaluation
+Database for storing progress and learning information
+
+Expected Benefits:
+Personalized learning experience.
+Multimodal interaction.
+Immediate and positive feedback.
+Reduced dependence on conventional teaching methods.
+Progress tracking.
+Ability to adapt learning activities according to performance.
+Simple and engaging interaction for the target users.
 
 ---
 
