@@ -137,7 +137,7 @@ Briefly explain the architecture.
 
 | Sr. No. | Component | Specification | Quantity | Purpose |
 |---|---|---|---|---|
-| 1 | Arduino UNO Q | 4 GB RAM | 1 | Main processing and system control |
+| 1 | Raspberrypi | 4 GB RAM | 1 | Main processing and system control |
 | 2 | Display | 5–7 inch compatible display | 1 | Display learning content and questions |
 | 3 | Microphone | USB microphone | 1 | Capture the child's speech |
 | 4 | Push Buttons | 3 physical push buttons | 3 | Child input and answer selection |
