@@ -206,7 +206,7 @@ Students must update this section every week.
 |---|---|---|---|---|---|
 | Week 1 | 15 Aug 2026 | Finalized initial hardware requirements and explored suitable components. Worked on the initial landing page and frontend structure. | Finalize hardware selection, refine the frontend and begin database planning. | Hardware platform and some system components are still being finalized. | — |
 | Week 2 | 22 Aug 2026 | Explored cloud-based Speech-to-Text (STT) integration with Raspberry Pi 3B+. Discussed the use of a camera for capturing visual inputs and its integration with the learning system. | Continue with STT and camera integration and finalize the required approach. | Microphone is not yet soldered, so voice input testing is currently limited. | |
-| Week 3 | 29 Aug 2026 | Continued working on the cloud-based STT approach and explored camera-based input for the learning application. Evaluated the hardware and software requirements for integrating both inputs. | Test STT once the microphone is ready and integrate voice and camera inputs with the application. | Raspberry Pi 3B+ has only 1 GB RAM, making local Whisper impractical. Cloud-based STT will also involve API/service costs. | |
+| Week 3 | 29 Aug 2026 | Continued working on the cloud-based STT approach and explored camera-based input for the learning application. Evaluated the hardware and software requirements for integrating both inputs. | Test STT once the microphone is ready and integrate voice and camera inputs with the application. | | |
 | Week 4 | | | | | |
 | Week 5 | | | | | |
 | Week 6 | | | | | |
